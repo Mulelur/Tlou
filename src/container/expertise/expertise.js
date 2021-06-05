@@ -9,7 +9,7 @@ export default function ExpertiseContainer() {
       <Expertise.Content>
         <Expertise.Text>
           My name is Tlou Mabotsa. I am a first year student at VUT who is so
-          busy studying a field of engineering which is machenical engineering.
+          busy studying a field of engineering which is electrical engineering.
         </Expertise.Text>
         <Expertise.Text>
           On the other side I have my own personal project which I am doing
