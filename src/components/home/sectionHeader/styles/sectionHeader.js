@@ -11,7 +11,7 @@ export const Container = styled.div`
   flex-direction: column;
   background-image: url(${bg});
   background-size: contain;
-  height: 60rem;
+  height: 59rem;
   color: #ffff;
 `;
 
@@ -32,9 +32,9 @@ export const Download = styled.a`
   text-align: center;
   border-radius: 5rem;
   text-decoration: none;
-  border: 3px solid #ffff;
+  border: 3px solid #e65f78;
   padding-top: 1.4rem;
-  color: #ffff;
+  color: #e65f78;
   font-size: 1.6rem;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -44,8 +44,8 @@ export const Download = styled.a`
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
     border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   &: hover {
-    background-color: #ffff;
-    color: black;
+    background-color: #e65f78;
+    color: #ffff;
   }
 `;
 
